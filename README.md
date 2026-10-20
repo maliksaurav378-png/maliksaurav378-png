@@ -1,25 +1,36 @@
-### About Me
+# 👨‍💻 About Me
 
-I am Saurabh Malik, a B.Tech Computer Science Engineering student at KIET Group of Institutions (currently in 2nd year, 3rd semester).  
-Passionate about software development, problem-solving, and building innovative solutions, I am actively learning Java, Python, and Data Structures & Algorithms (DSA).  
+Hi, I’m **Saurabh Malik** — a B.Tech Computer Science Engineering student at **KIET Group of Institutions** (currently in 2nd year, 3rd semester).  
+I’m passionate about **software development, problem-solving, and building innovative solutions** that merge technology with creativity.
 
-### Interests & Focus
-- Full-stack web development (React, Node.js, Django)  
-- Data analysis and machine learning (NumPy, Pandas, Scikit-Learn)  
-- Cloud computing and deployment (AWS, Render, Vercel)  
-- Open-source contributions and collaborative projects  
+---
 
-### Current Projects
-- **Solar Setu (SIH Institutional Round):** Smart energy IoT model focusing on sustainable solutions  
-- Beginner-friendly coding exercises and LeetCode problem-solving  
+## 🚀 What I Do
+- 🌱 Learning **Java, Python, and Data Structures & Algorithms (DSA)**  
+- 🔭 Working on **Solar Setu (SIH Institutional Round)** — a smart energy IoT project  
+- 💻 Exploring **Full-Stack Development** (React, Node.js, Django)  
+- 🤖 Diving into **AI & Machine Learning** (NumPy, Pandas, Scikit-Learn)  
 
-### Goals
-- Strengthen my DSA and problem-solving skills  
-- Build impactful projects integrating AI and cloud technologies  
-- Prepare for internships and industry opportunities in software development  
+---
 
-### Fun Fact
-I enjoy PC gaming on my HP Victus (Valorant is my go-to) and love exploring new tech ideas.
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Java, Python, JavaScript  
+- **Web Development:** HTML, CSS, React.js, Node.js, Django  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+## 🎯 Goals
+- Strengthen my **DSA and problem-solving skills**  
+- Build impactful projects integrating **AI + Cloud technologies**  
+- Contribute to **open-source** and prepare for **internships**  
+
+---
+
+## ⚡ Fun Side
+When I’m not coding, you’ll find me gaming 🎮 (Valorant on my HP Victus i7 + RTX 4050) or brainstorming startup ideas 💡.
+
 
 
 ## 🌐 Socials:
