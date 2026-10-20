@@ -1,5 +1,25 @@
-# 💫 About Me:
-## 👋 About Me<br><br>- 🎓 I’m a B.Tech Computer Science Engineering student (2nd year, KIET Group of Institutions)  <br>- 🌱 Currently learning: Java basics, Data Structures & Algorithms (DSA), and Python libraries  <br>- 🔭 Working on: Solar Setu project for SIH institutional round  <br>- 👯 Looking to collaborate on: Beginner‑friendly coding projects and innovative tech ideas and full stack develeoper <br>- 💬 Ask me about: C programming, C ++, Python basics, and simple array‑based solutions  <br>- ⚡ Fun fact: I enjoy PC gaming (Valorant on HP Victus i7 + RTX 4050)  <br>
+### About Me
+
+I am Saurabh Malik, a B.Tech Computer Science Engineering student at KIET Group of Institutions (currently in 2nd year, 3rd semester).  
+Passionate about software development, problem-solving, and building innovative solutions, I am actively learning Java, Python, and Data Structures & Algorithms (DSA).  
+
+### Interests & Focus
+- Full-stack web development (React, Node.js, Django)  
+- Data analysis and machine learning (NumPy, Pandas, Scikit-Learn)  
+- Cloud computing and deployment (AWS, Render, Vercel)  
+- Open-source contributions and collaborative projects  
+
+### Current Projects
+- **Solar Setu (SIH Institutional Round):** Smart energy IoT model focusing on sustainable solutions  
+- Beginner-friendly coding exercises and LeetCode problem-solving  
+
+### Goals
+- Strengthen my DSA and problem-solving skills  
+- Build impactful projects integrating AI and cloud technologies  
+- Prepare for internships and industry opportunities in software development  
+
+### Fun Fact
+I enjoy PC gaming on my HP Victus (Valorant is my go-to) and love exploring new tech ideas.
 
 
 ## 🌐 Socials:
